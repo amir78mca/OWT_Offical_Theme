@@ -1,0 +1,153 @@
+/*
+ * Styles for Arabic
+ */
+body, html{
+	/* font-size:15.015px; */
+	font-family: "Noto Naskh Arabic",Arial,sans-serif;
+	font-size: 13px;
+    line-height: 1.46154;
+}
+body p{
+	font-size:15.015px;
+}
+
+#logo h1 a {
+    padding-left:0;
+    padding-right:80px;
+    background-position: right top;
+}
+
+#breadcrumbs li:first-child {
+    margin-right: 0;
+}
+#breadcrumbs li {
+    float: right;
+    margin-right: .2em;
+    margin-left: 0;
+}
+#breadcrumbs li:before {
+    margin-left: .2em;
+    margin-right: 0;
+}
+.sf-menu > li{
+	float:right;
+}
+.sf-menu li a {
+    font-size: 14.3px !important;
+	font-weight: normal;
+}
+.sf-navbar .badge {
+    margin-right: .5em;
+    margin-left: 0;
+}
+#search_container {
+    padding: 54px 0 10px 15px;
+}
+.search-form form button {
+    left: 0;
+    right: auto;
+}
+#brand-bar .brandbar-header a.navbar-brand:before {
+    font-family: Arial;
+    color: black;
+    content:none;
+    font-size: 18.07px;
+    line-height: 0.9;
+    margin-right: 7.8px;
+    float: left;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#brand-bar .brandbar-header a.navbar-brand:after {
+    font-family: FontAwesome;
+    color: black;
+    content: "\f015";
+    font-size: 18.07px;
+    line-height: 0.9;
+    margin-left: 7.8px;
+    float: right;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.featured-news .item .col-md-5 {
+    padding-left: 0;
+}
+
+div.page section header, 
+.home section header, 
+body.archive section header {
+    padding-left: 0;
+    padding-right: .5em;
+}
+.thumbnails-nav h4 {
+    /* font-size: 15.015px; */
+    font-weight: bold;
+}
+nav.menu-desa-desktop {
+    background-color: #f2f2f2;
+    height: 80px;
+}
+.sf-menu li:not(.menu-item-has-children) a {
+    line-height: 19px;
+}
+.sf-navbar > li > ul > li {
+    float: right;
+}
+body.page-template-page-category-feature #content .page-category-feature h2:first-child{
+	background-position:left;
+}
+.page-template-page-subpage-grid section[class*="category"] .icon {
+margin-right:0;
+margin-left: .8em;
+}
+#content ul {
+    padding-right: .8em;
+}
+#content li:before {
+    content: '\f0d9';
+    font-family: 'FontAwesome';
+    color: #4d4d4d;
+    margin: 0 -.8em 0 .4em;
+}
+#content #archives-2 li::before {
+    margin: 0 -3em 0 0.4em;
+	content:none;
+}
+header nav ul li.menu-item-has-children > a::after{
+	padding-right: 0.75em;
+}
+
+.desa-subscribe h3 a {
+    float: left;
+    margin: -1px 0 0 8px;
+}
+#content ul.media-list {
+    padding-right: 0;
+}
+
+body.archive .media-list .media > .pull-left {
+    padding-left: 0;
+    margin-left: 10px;
+    margin-right: 0;
+}
+.textwidget p{
+	line-height:20.15px;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+	font-weight:600;
+}
+li, dt, dd {
+	line-height:inherit;
+}
+footer li a{
+	font-size:inherit;
+	line-height:inherit;
+}
+#home-key-issues li a{
+	font-size:15.015px;
+}
+h3, .h3 {
+    font-size: 15.015px;
+}

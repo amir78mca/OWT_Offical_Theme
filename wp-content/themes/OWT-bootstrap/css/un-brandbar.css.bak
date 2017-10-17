@@ -1,0 +1,142 @@
+/*
+ * UN Brandbar
+ * @see www.un.org/styleguide
+ */
+#brand-bar {
+    background: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    border: none !important;
+    border-bottom: #00adef solid 5px !important;
+    height: 41px;
+    min-height: inherit;
+}
+
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+}
+
+@media (min-width: 768px) {
+    .navbar-fixed-top, .navbar-fixed-bottom {
+        border-radius: 0;
+    }
+}
+
+.navbar-fixed-top, .navbar-fixed-bottom {
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+@media (min-width: 768px) {
+    .navbar {
+        border-radius: 0;
+    }
+}
+
+.navbar {
+    
+    min-height: auto;
+    margin-bottom: 18px;
+    border: 1px solid transparent;
+}
+
+#brand-bar .brandbar-header {
+    padding-top: 10px;
+}
+
+#brand-bar .brandbar-header a {
+    padding: 0;
+    font-size: 12.35px;
+    line-height: 17.03px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    color: black;
+}
+
+#brand-bar .brandbar-header a.navbar-brand:before {
+    font-family: FontAwesome;
+    color: black;
+    content: "\f015";
+    font-size: 18.07px;
+    line-height: 0.9;
+    margin-right: 7.8px;
+    float: left;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.navbar-default .navbar-brand {
+    color: #777;
+}
+
+.language-switcher #language-switcher {
+    border-top: none;
+    padding: 0;
+    float: right;
+    clear: both;
+    right: 9px;
+    top:30px;
+}
+
+.language-switcher #language-switcher ul.language-switcher-locale-url {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.language-switcher #language-switcher ul.language-switcher-locale-url li {
+    float: left;
+    padding-right: 13px;
+}
+.language-switcher #language-switcher ul.language-switcher-locale-url li {
+    list-style-image: none;
+    list-style-type: none;
+    margin-left: 0;
+}
+.language-switcher #language-switcher ul.language-switcher-locale-url li.last {
+    padding-right: 0;
+}
+.language-switcher #language-switcher li.active a,
+.language-switcher #language-switcher li.active a:active,
+.language-switcher #language-switcher li.active a:hover,
+.language-switcher #language-switcher li.active a:focus {
+    font-weight: bold;
+    background-color: transparent;
+}
+.language-switcher button.navbar-toggle {
+    margin-top: 0;
+    border: none;
+    padding: 0;
+    background: transparent;
+    border-radius: 0;
+    margin-right: 2px;
+}
+/* -- */
+.language-switcher .language-title {
+    float: right;
+    margin-right: 10.4px;
+    line-height: 1.2;
+}
+
+@media (max-width: 767px) {
+
+.language-switcher #language-switcher ul.language-switcher-locale-url {
+    margin-top: 3px;
+    width: 161px;
+}
+.language-switcher #language-switcher ul.language-switcher-locale-url li {
+    float: none;
+    padding-right: 0;
+}
+
+.language-switcher #language-switcher ul.language-switcher-locale-url li a {
+    background: white;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom: #f2f2f2 solid 1px;
+}

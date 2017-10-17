@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Desa Bootstrap Theme\n"
+"POT-Creation-Date: 2016-08-08 16:42-0500\n"
+"PO-Revision-Date: 2016-10-25 16:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_n;_x;_e;esc_html_e;esc_attr_e;_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:12
+msgid "404 Page Not Found"
+msgstr "404页面未找到"
+
+#: ../404.php:18
+msgid "The page you requested was not found."
+msgstr "没有发现您请求的页面"
+
+#: ../404.php:19
+msgid "Please check the URL to make sure you entered it correctly."
+msgstr "请检查网址，以确保您的输入正确"
+
+#: ../404.php:20
+#, php-format
+msgid ""
+"You can use our <a href=\"%s\">Search</a> or visit the <a href=\"%s\">DESA "
+"home page</a>."
+msgstr "您可以使用 <a href=\"%s\">搜索</a>或访问 <a href=\"%s\">经社部主页</a>"
+
+#: ../archive.php:74
+msgid "Category:"
+msgstr "分类"
+
+#: ../archive.php:102
+msgid "More Stories"
+msgstr "更多新闻"
+
+#: ../archive.php:81
+msgid "&laquo;"
+msgstr ""
+
+#: ../archive.php:82
+msgid "&raquo;"
+msgstr ""
+
+#: ../footer.php:26
+msgid "Follow Us"
+msgstr "关注我们"
+
+#: ../footer.php:39
+msgid "United Nations"
+msgstr "联合国"
+
+#: ../footer.php:44
+msgid "Contact"
+msgstr "联系我们"
+
+#: ../contact-us.php:1157
+msgid "Send a message to the Department of Economic and Social Affairs."
+msgstr "请与经社部联系。"
+
+#: ../contact-us.php:1158
+msgid "Please enter the details of your message and click on Send."
+msgstr "请输入你的相关信息并按发送按钮送出你的信息。"
+
+#: ../contact-us.php:1173
+msgid "Your email address"
+msgstr "你的邮件地址"
+
+#: ../contact-us.php:1176
+msgid "Enter your E-mail address here"
+msgstr "请在这里输入你的电子邮件"
+
+#: ../contact-us.php:1182
+msgid "Your name"
+msgstr "你的姓名"
+
+#: ../contact-us.php:1186
+msgid "Enter your name here"
+msgstr "请在这里输入你的名字"
+
+#: ../contact-us.php:1191
+msgid "Subject"
+msgstr "主题"
+
+#: ../contact-us.php:1193
+msgid "Enter the subject of your message here"
+msgstr "请在这里输入你的主题"
+
+#: ../contact-us.php:1197
+msgid "Message"
+msgstr "信息"
+
+#: ../contact-us.php:1213
+msgid "Thank you for your comments."
+msgstr "谢谢你的意见。"
+
+#: ../contact-us.php:1205
+msgid "Send"
+msgstr "发送。"
+
+#: ../contact-us.php:1206
+msgid "Cancel"
+msgstr "取消"
+
+#: ../footer.php:47
+msgid "Copyright"
+msgstr "版权所有"
+
+#: ../footer.php:50
+msgid "Fraud Alert"
+msgstr "提防诈骗"
+
+#: ../footer.php:53
+msgid "Privacy Notice"
+msgstr "隐私通告"
+
+#: ../footer.php:56
+msgid "Site Index"
+msgstr "网址索引"
+
+#: ../footer.php:59
+msgid "Terms of Use"
+msgstr "使用条款"
+
+#: ../includes/class.breadcrumbs.php:27
+msgid "Home"
+msgstr "主页"
+
+#: ../includes/class.breadcrumbs.php:178
+msgid "Search"
+msgstr "搜索"
+
+#: ../includes/class.media-list-widget.php:35
+#: ../includes/class.related-posts-widget.php:71
+msgid "Title:"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:40
+msgid "Number of items:"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:49
+msgid "Save to see item fields below"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:68
+msgid "Name:"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:78
+msgid "Link URL:"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:88
+msgid "Image URL:"
+msgstr ""
+
+#: ../includes/class.owl-carousel.php:79
+msgid "The specified carousel template was not found"
+msgstr ""
+
+#: ../includes/class.owl-carousel.php:118
+msgid "Previous"
+msgstr "上一个"
+
+#: ../includes/class.owl-carousel.php:118
+msgid "Next"
+msgstr "下一个"
+
+#: ../includes/class.related-posts-widget.php:42
+msgid "No related posts found"
+msgstr "未发现相关信息"
+
+#: ../includes/hooks.php:60
+#, php-format
+msgid "Page %s"
+msgstr "第%s页"
+
+#: ../includes/theme-init.php:67
+msgid "Main Nav Menu"
+msgstr ""
+
+#: ../includes/theme-options.php:48
+msgid "Excerpt length"
+msgstr ""
+
+#: ../includes/theme-options.php:49
+msgid "Optional custom length"
+msgstr ""
+
+#: ../includes/theme-options.php:53 ../includes/theme-options.php:80
+msgid "DESA Bootstrap"
+msgstr ""
+
+#: ../includes/theme-options.php:54
+msgid "Site Header Title"
+msgstr ""
+
+#: ../includes/theme-options.php:55
+msgid "Title displayed in masthead"
+msgstr ""
+
+#: ../includes/theme-options.php:59
+msgid "A lightweight UN theme"
+msgstr ""
+
+#: ../includes/theme-options.php:60
+msgid "Site Header Sub-title"
+msgstr ""
+
+#: ../includes/theme-options.php:61
+msgid "Second-level title in masthead"
+msgstr ""
+
+#: ../includes/theme-options.php:65
+msgid "Short Sub-title"
+msgstr ""
+
+#: ../includes/theme-options.php:66
+msgid "Shorter version of sub-title for smaller devices (optional)"
+msgstr ""
+
+#: ../includes/theme-options.php:70
+msgid "AddThis user token"
+msgstr ""
+
+#: ../includes/theme-options.php:71
+msgid ""
+"Identifier for <a href=\"http://AddThis.com\" target=\"_blank\">AddThis.com</"
+"a> account (social media follow and share buttons), e.g. <em style=\"white-"
+"space:nowrap\">ra-######</em>"
+msgstr ""
+
+#: ../includes/widgets.php:10
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../includes/widgets.php:19
+msgid "Home Widget 1"
+msgstr ""
+
+#: ../includes/widgets.php:20
+msgid "Home widget area column 1 (home.php)"
+msgstr ""
+
+#: ../includes/widgets.php:29
+msgid "Home Widget 2"
+msgstr ""
+
+#: ../includes/widgets.php:30
+msgid "Home widget area column 2 (home.php)"
+msgstr ""
+
+#: ../includes/widgets.php:39
+msgid "Home Widget 3"
+msgstr ""
+
+#: ../includes/widgets.php:40
+msgid "Home widget area column 3 (home.php)"
+msgstr ""
+
+#: ../includes/widgets.php:49
+msgid "Category Feature"
+msgstr ""
+
+#: ../includes/widgets.php:50
+msgid "Sidebar For Category Page"
+msgstr ""
+
+#: ../page-category-feature.php:53
+msgid "Latest on this issue"
+msgstr "本话题的最新消息"
+
+#: ../page-category-feature.php:68
+msgid "Read also:"
+msgstr "更多阅读："
+
+#: ../page-category-feature.php:103
+msgid "About"
+msgstr "关于经社部"
+
+#: ../page.php:20
+msgid "Read more &#8250;"
+msgstr "阅读全文"
+
+#: ../part.owl-carousel-posts.php:106
+msgid "No posts found."
+msgstr ""
+
+#: ../part.search-box.php:4
+msgid "Search UN DESA"
+msgstr "搜索经社部"
+
+#: ../part.un-brandbar.php:17
+msgid "Welcome to the United Nations"
+msgstr "欢迎来到联合国"
+
+#: ../part.un-brandbar.php:23
+msgid "Toggle navigation"
+msgstr "切换导航"
+
+#: ../part.un-brandbar.php:30
+msgid "Language:"
+msgstr "语言："
+
+#: ../sidebar-right.php:21
+msgid "In Archive"
+msgstr "在档案文件中"
+
+#: ../single.php:24
+msgid "News"
+msgstr "新闻"

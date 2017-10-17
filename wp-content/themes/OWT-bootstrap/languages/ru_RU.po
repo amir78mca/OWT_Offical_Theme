@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Desa Bootstrap Theme\n"
+"POT-Creation-Date: 2016-08-08 16:42-0500\n"
+"PO-Revision-Date: 2016-10-29 14:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_n;_x;_e;esc_html_e;esc_attr_e;_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:12
+msgid "404 Page Not Found"
+msgstr ""
+
+#: ../404.php:18
+msgid "The page you requested was not found."
+msgstr ""
+
+#: ../404.php:19
+msgid "Please check the URL to make sure you entered it correctly."
+msgstr ""
+
+#: ../404.php:20
+#, php-format
+msgid ""
+"You can use our <a href=\"%s\">Search</a> or visit the <a href=\"%s\">DESA "
+"home page</a>."
+msgstr ""
+
+#: ../archive.php:71
+msgid "Category"
+msgstr ""
+
+#: ../archive.php:81
+msgid "&laquo;"
+msgstr ""
+
+#: ../archive.php:82
+msgid "&raquo;"
+msgstr ""
+
+#: ../footer.php:26
+msgid "Follow Us"
+msgstr ""
+
+#: ../footer.php:39
+msgid "United Nations"
+msgstr "Организация Объединенных Наций"
+
+#: ../footer.php:44
+msgid "Contact"
+msgstr "Наш адрес"
+
+#: ../footer.php:47
+msgid "Copyright"
+msgstr "© ООН"
+
+#: ../footer.php:50
+msgid "Fraud Alert"
+msgstr "Остерегайтесь мошенничества"
+
+#: ../footer.php:53
+msgid "Privacy Notice"
+msgstr "Конфиденциальность"
+
+#: ../footer.php:56
+msgid "Site Index"
+msgstr "Указатель"
+
+#: ../footer.php:59
+msgid "Terms of Use"
+msgstr "Условия пользования"
+
+#: ../includes/class.breadcrumbs.php:27
+msgid "Home"
+msgstr "Главная"
+
+#: ../includes/class.breadcrumbs.php:178
+msgid "Search"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:35
+#: ../includes/class.related-posts-widget.php:71
+msgid "Title:"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:40
+msgid "Number of items:"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:49
+msgid "Save to see item fields below"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:68
+msgid "Name:"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:78
+msgid "Link URL:"
+msgstr ""
+
+#: ../includes/class.media-list-widget.php:88
+msgid "Image URL:"
+msgstr ""
+
+#: ../includes/class.owl-carousel.php:79
+msgid "The specified carousel template was not found"
+msgstr ""
+
+#: ../includes/class.owl-carousel.php:118
+msgid "Previous"
+msgstr ""
+
+#: ../includes/class.owl-carousel.php:118
+msgid "Next"
+msgstr ""
+
+#: ../includes/class.related-posts-widget.php:42
+msgid "No related posts found"
+msgstr ""
+
+#: ../includes/hooks.php:60
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/theme-init.php:67
+msgid "Main Nav Menu"
+msgstr ""
+
+#: ../includes/theme-options.php:48
+msgid "Excerpt length"
+msgstr ""
+
+#: ../includes/theme-options.php:49
+msgid "Optional custom length"
+msgstr ""
+
+#: ../includes/theme-options.php:53 ../includes/theme-options.php:80
+msgid "DESA Bootstrap"
+msgstr ""
+
+#: ../includes/theme-options.php:54
+msgid "Site Header Title"
+msgstr ""
+
+#: ../includes/theme-options.php:55
+msgid "Title displayed in masthead"
+msgstr ""
+
+#: ../includes/theme-options.php:59
+msgid "A lightweight UN theme"
+msgstr ""
+
+#: ../includes/theme-options.php:60
+msgid "Site Header Sub-title"
+msgstr ""
+
+#: ../includes/theme-options.php:61
+msgid "Second-level title in masthead"
+msgstr ""
+
+#: ../includes/theme-options.php:65
+msgid "Short Sub-title"
+msgstr ""
+
+#: ../includes/theme-options.php:66
+msgid "Shorter version of sub-title for smaller devices (optional)"
+msgstr ""
+
+#: ../includes/theme-options.php:70
+msgid "AddThis user token"
+msgstr ""
+
+#: ../includes/theme-options.php:71
+msgid ""
+"Identifier for <a href=\"http://AddThis.com\" target=\"_blank\">AddThis.com</"
+"a> account (social media follow and share buttons), e.g. <em style=\"white-"
+"space:nowrap\">ra-######</em>"
+msgstr ""
+
+#: ../includes/widgets.php:10
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../includes/widgets.php:19
+msgid "Home Widget 1"
+msgstr ""
+
+#: ../includes/widgets.php:20
+msgid "Home widget area column 1 (home.php)"
+msgstr ""
+
+#: ../includes/widgets.php:29
+msgid "Home Widget 2"
+msgstr ""
+
+#: ../includes/widgets.php:30
+msgid "Home widget area column 2 (home.php)"
+msgstr ""
+
+#: ../includes/widgets.php:39
+msgid "Home Widget 3"
+msgstr ""
+
+#: ../includes/widgets.php:40
+msgid "Home widget area column 3 (home.php)"
+msgstr ""
+
+#: ../includes/widgets.php:49
+msgid "Category Feature"
+msgstr ""
+
+#: ../includes/widgets.php:50
+msgid "Sidebar For Category Page"
+msgstr ""
+
+#: ../page-category-feature.php:53
+msgid "Latest on this issue"
+msgstr "Последние по этому вопросу"
+
+#: ../page-category-feature.php:68
+msgid "Read also:"
+msgstr "Читайте также:"
+
+#: ../page-category-feature.php:103
+msgid "About"
+msgstr "Описание"
+
+#: ../page.php:20
+msgid "Read more &#8250;"
+msgstr "Читать далее"
+
+#: ../part.owl-carousel-posts.php:106
+msgid "No posts found."
+msgstr ""
+
+#: ../part.search-box.php:4
+msgid "Search UN DESA"
+msgstr "Поиск на веб-сайте ДЭСВ"
+
+#: ../part.un-brandbar.php:17
+msgid "Welcome to the United Nations"
+msgstr "Добро пожаловать в ООН!"
+
+#: ../part.un-brandbar.php:23
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../part.un-brandbar.php:30
+msgid "Language:"
+msgstr ""
+
+#: ../sidebar-right.php:21
+msgid "In Archive"
+msgstr ""
+
+#: ../single.php:24
+msgid "News"
+msgstr "НОВОСТИ"
+
+#: ../class.subscribe-widget.php:32
+msgid "Subscribe to UN DESA Voice"
+msgstr "Подпишитесь на Вестник ДЭСВ"
+
+#: ../contact-us.php:1157
+msgid "Send a message to the Department of Economic and Social Affairs."
+msgstr ""
+"Отправить сообщение для Департамента по экономическим и социальным вопросам."
+
+#: ../contact-us.php:1158
+msgid "Please enter the details of your message and click on Send."
+msgstr "Введите данные вашего сообщения и нажмите кнопку \"Отправить\"."
+
+#: ../contact-us.php:1182
+msgid "Your name"
+msgstr "Имя"
+
+#: ../contact-us.php:1173
+msgid "Your email address"
+msgstr "address Ваш эл. адрес"
+
+#: ../contact-us.php:1191
+msgid "Subject"
+msgstr "Предмет"
+
+#: ../contact-us.php:1197
+msgid "Message"
+msgstr "Сообщение"
+
+#: ../contact-us.php:1205
+msgid "Send"
+msgstr "Послать"
+
+#: ../contact-us.php:1206
+msgid "Cancel"
+msgstr "Отменить"
+
+#: ../contact-us.php:1213
+msgid "Thank you for your comments."
+msgstr "Спасибо за ваш комментарий."
+
+#: ../contact-us.php:1176
+msgid "Enter your E-mail address here"
+msgstr "Введите ваш эл. адрес"
+
+#: ../contact-us.php:1186
+msgid "Enter your name here"
+msgstr "Введите ваше имя"
+
+#: ../contact-us.php:1193
+msgid "Enter the subject of your message here"
+msgstr "Введите тему сообщения"
+
+#: ../archive.php:74
+msgid "Category:"
+msgstr ""
+
+#: ../archive.php:102
+msgid "More Stories"
+msgstr ""

@@ -1,0 +1,25 @@
+/* 
+Theme Name:		 OWT child theme
+Theme URI:		
+Description:	 
+Author:			 M.Amir
+Author URI:		 
+Template:		 OWT-bootstrap
+Version:		 1.0.0
+Text Domain:	 
+-------------------------------------------------------------- */ 
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+
+.top-header-one
+{
+	background:#000;
+}
+.container {
+    width: 70%;
+}
+#unfooter {
+    background-color: #F51F2E !important;
+    padding: 5px 0;
+}
